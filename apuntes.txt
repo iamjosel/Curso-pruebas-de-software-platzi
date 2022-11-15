@@ -1,6 +1,10 @@
 Tutora: Blanca Moreno
 Introducción
 ***Clase 1 Lo que aprenderás sobre los fundamentos de testing***
+
+
+Principios de las pruebas
+***Clase 2 ¿Qué son las pruebas y por qué deberíamos hacerlas?***
 ¿Cuántas veces hemos sido usuarios de alguna app móvil y falla? ¿Cuántas veces hemos sido parte del desarrollo de un producto y el retrabajo se desborda por todas las fallas o defectos que contiene?.
 
 Las pruebas son una manera de explorar, experimentar, entenderlo, entre menos entiendas el productos que estas desarrollando más errores tendrá. Las puedes hacer por cuestión de costo, prestigio o cuestiones legales.
@@ -10,12 +14,6 @@ Tres aspectos a considerar:
 Tenemos un problema o el resultado no es el esperado
 Nuestros costos se esta volviendo muy alto.
 Implicaciones legales o de estándares tecnológicos.
-
-
-
-Principios de las pruebas
-***Clase 2 ¿Qué son las pruebas y por qué deberíamos hacerlas?***
-
 
 
 ***Clase 3 Proceso de pruebas del software y los estándares internacionales***
